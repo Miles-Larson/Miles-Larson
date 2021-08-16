@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Miles-Larson
-- 🌱 I’m currently learning data structures, algorithms, midi,
-- 📈 I work in the financial services industry and primarily tackle automation and data issuesin data and automation,
-- 📫 How to reach me twitter @legisleuth...
+- 🌱 I’m currently practicing my pandas, data visualization, and design patterns
+- 📚 Reading up on data mesh, microservices, and geospatial plotting using python
+- 📈 I work in the financial services industry and primarily tackle automation, data governance,  and automation,
+- 📫 Reach me on twitter @legisleuth 
 
 <!---
 Miles-Larson/Miles-Larson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
